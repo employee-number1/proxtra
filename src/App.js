@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h4>This message will self-destruct in 30 minutes.</h4>
+        <h4>This message will self-destruct in 30 seconds.</h4>
         <h6>format: str_nbr, 000 + rgstr_nbr, pos_trans_id</h6>
         <ul>
           <li>POS_TRANS_ID='4339' STR_NBR='0659' RGSTR_NBR='1', 2022-10-10, 114.00</li>
